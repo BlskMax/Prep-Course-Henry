@@ -1,2 +1,3 @@
-# Prep-Course-Henry
-Mi primer repositorio en el PrepCourse de Henry
+Alejandro Maximiliano Galarza Ornelas
+
+Este proyecto es una prueba de repositorio para clonarlo desde github
